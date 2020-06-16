@@ -1,0 +1,5 @@
+﻿Employee-Id,Employee-Name,PAN,Email,Designation,Is-Promoted,Last-Year-Performance-Bonus,Basic-Monthly,Telephone-Reimbursements-Monthly,HRA-Monthly,Food-Allowance-Monthly,Special-Allowance-Monthly,Total-Fixed-Salary-Monthly,PF-Monthly,Total-Monthly,Basic-Annual,Education-Allowance-Annual,Telephone-Reimbursements-Annual,HRA-Annual,Food-Allowance-Annual,Special-Allowance-Annual,Total-Fixed-Salary-Annual,Performance-Bonus-Annual,PF-Annual,Total-Annual
+1,ABC,ABCDE1234F,a@b.c,Manager,N,0,102580,2000,23500,2200,82350,215630,1800,215080,1230960,35000,24000,282000,26400,988200,2622560,258096,21600,2902256
+2,QWER,QWERT1234Y,d@e.f,Director,N,0,82064,2000,18800,2200,65880,174444,1800,172424,984768,27000,24000,225600,26400,790560,2120328,350000,21600,2491928
+3,ASDF G,ASDFG9876H,x@y.z,Lead,Y,200000,65651,2000,15040,2200,52704,140295,1800,138299.2,787812,23000,24000,180480,26400,632448,1706540,245000,21600,1973140
+ ,,,,,,,,,,,,,,,,,,,,,,,,
